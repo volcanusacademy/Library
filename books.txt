@@ -1,0 +1,5 @@
+C-Programming,5
+Java Programming,0
+Python,0
+SQL,0
+Data Analysis,0
